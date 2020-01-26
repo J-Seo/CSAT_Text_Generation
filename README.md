@@ -19,7 +19,11 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 ## Intro video
 
+<https://www.youtube.com/watch?v=afvwKcdT8Tg>
+
 [![Video Label](https://i.ytimg.com/vi/afvwKcdT8Tg/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCA3TI-AU0V_C-b6ml8orP_-X0BOQ)](https://youtu.be/afvwKcdT8Tg)
+
+ ** Click Image!! **
 
 ---
 
