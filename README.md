@@ -31,7 +31,7 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 Deep문학도 
 
-[!deepmoon.png]
+![logo](./deepmoon.png)
 
 서재형: 프로젝트 총괄, 주요 알고리즘 제작 및 모델 학습 지도 
 
