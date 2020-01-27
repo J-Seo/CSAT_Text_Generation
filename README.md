@@ -13,9 +13,9 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 <http://3.90.46.220:8080/deepmunhak/mainPage>
 
-- you can solve AI CSAT problem sets and check the answers.
+- You can solve AI CSAT problem sets and check the answers.
 
-- Also, you can download AI shakespeare's Les Miserables play script.
+- Also, you can download AI Shakespeare's Les Miserables play script.
 
 ## Intro video
 
@@ -27,7 +27,7 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 ---
 
-## 1. Author
+## 1. Authors
 
 ![logo](./deepmoon.png)
 
@@ -43,14 +43,13 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 ---
 
-## 2. Thanks
+## 2. Contributors / Thanks
 
-Professor. Hoseong Nam (https://github.com/hsnam95) <-- technical adviser, 저희 팀의 지도 교수님으로 기술적인 부분 뿐만 아닌 내용적인 측면에서도 
-많은 도움을 주셨습니다.
+Professor Ho-seong Nam (https://github.com/hsnam95) <-- Technical adviser, 저희 팀의 지도 교수님으로 기술적인 부분 뿐만 아닌 내용적인 측면에서도 많은 도움을 주셨습니다.
 
-Hyein Helen Lee <-- linguistic adviser, 문학적인 부분까지 고려하는 단계에서 많은 조언을, 어학적인 관점에서 지문 및 문제의 적합성을 판정하는데 많은 도움을 주었습니다.
+Hyein Helen Lee <-- Linguistic adviser, 문학적인 부분까지 고려하는 단계에서 많은 조언을, 어학적인 관점에서 지문 및 문제의 적합성을 판정하는데 많은 도움을 주었습니다.
 
-Jung-won Jang <-- team maker, 팀의 최초 결성부터 중간 중간 외부 자문으로, 이민형 팀원의 발전에 많은 도움을 주었습니다. 
+Jung-won Jang <-- Team maker, 팀의 최초 결성부터 중간 중간 외부 자문으로, 이민형 팀원의 발전에 많은 도움을 주었습니다. 
 
 KU froniter village & management support team <-- 재정적인 측면과 공간 지원 등 다방면에서 6개월간 물심양면으로 많은 지원을 받았습니다. 
 
@@ -78,7 +77,7 @@ LAtimes, https://www.latimes.com/
 
 CNN, https://edition.cnn.com/
 
-neural-summ-cnndm-pytorch, https://github.com/lipiji/neural-summ-cnndm-pytorch
+Neural-summ-cnndm-pytorch, https://github.com/lipiji/neural-summ-cnndm-pytorch
 
 ---
 
