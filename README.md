@@ -29,19 +29,17 @@ Pi_ville_project, creating the CSAT questions with RNN, LSTM, and Transformer
 
 ## 1. Author
 
-Deep문학도 
-
 ![logo](./deepmoon.png)
 
-서재형: 프로젝트 총괄, 주요 알고리즘 제작 및 모델 학습 지도 
+서재형 Jaehyung Seo: 프로젝트 총괄, 주요 알고리즘 제작 및 모델 학습 지도 
 
-이민형: 데이터 담당, 데이터 수집 및 모델링 
+이민형 Minhyeong Lee: 데이터 담당, 데이터 수집 및 모델링 
 
-장동환: 운영 총괄, 데이터 관리 및 프로젝트 방향 기획
+장동환 Donghwan Daniel Chang : 운영 총괄, 데이터 관리 및 프로젝트 방향 기획
 
-이강희: 디자인 총괄, 영상 제작 및 컨텐츠 디자인
+이강희 Kang-hee Lee: 디자인 총괄, 영상 제작 및 컨텐츠 디자인
 
-유동연: 웹 제작 총괄, 웹 프론트 및 백엔드 개발
+유동연 Dongyeon Yoo: 웹 제작 총괄, 웹 프론트 및 백엔드 개발
 
 ---
 
@@ -50,7 +48,7 @@ Deep문학도
 Professor. Hoseong Nam (https://github.com/hsnam95) <-- technical adviser, 저희 팀의 지도 교수님으로 기술적인 부분 뿐만 아닌 내용적인 측면에서도 
 많은 도움을 주셨습니다.
 
-Helen Lee <-- linguistic adviser, 문학적인 부분까지 고려하는 단계에서 많은 조언을, 어학적인 관점에서 지문 및 문제의 적합성을 판정하는데 많은 도움을 주었습니다.
+Hyein Helen Lee <-- linguistic adviser, 문학적인 부분까지 고려하는 단계에서 많은 조언을, 어학적인 관점에서 지문 및 문제의 적합성을 판정하는데 많은 도움을 주었습니다.
 
 Jung-won Jang <-- team maker, 팀의 최초 결성부터 중간 중간 외부 자문으로, 이민형 팀원의 발전에 많은 도움을 주었습니다. 
 
